@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SideMenuOptions</key>
+	<array>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>My Zaggle Activities</string>
+				<key>Subitems</key>
+				<array>
+					<string>My Bill History</string>
+					<string>My Orders</string>
+					<string>My eVouchers</string>
+					<string>My Bookings</string>
+					<string>My Reviews</string>
+					<string>My  Comparisons</string>
+				</array>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>My Favourites</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>My Zaggle Cash</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Zaggle Offers</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>My Zaggle Super Cards</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Buy Vouchers(Using Payment Gateway)</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>My YesPay Wallet</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>About Us</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>How it Works?</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>FAQs</string>
+			</dict>
+		</array>
+	</array>
+	<key>DemosList</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Click and upload restaurant bill to get fantastic Cashbacks</string>
+			<key>imageName</key>
+			<string>tour-1.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Explore curated restaurant deals and book them (for a group of 3 or more)</string>
+			<key>imageName</key>
+			<string>tour-2.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Not satisfied with any deal? Don&apos;t worry. We&apos;ve got Customised Deals for you!</string>
+			<key>imageName</key>
+			<string>tour-3.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Redeem Zaggle Cash for Vouchers, Merchandise and Others</string>
+			<key>imageName</key>
+			<string>tour-5.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>

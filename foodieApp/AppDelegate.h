@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
+#import "Reachability.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
@@ -17,6 +18,10 @@
 
 - (void)saveContext;
 
-
+@property (nonatomic) Reachability *hostReachability;
+@property (nonatomic) Reachability *internetReachability;
+@property (strong,nonatomic) NSString *socialLoginType;
+@property NSString *socialString;
+@property NSString * deviceTokenAPPD;
 @end
 

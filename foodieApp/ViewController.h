@@ -11,5 +11,8 @@
 @interface ViewController : UIViewController
 
 
+@property (strong, nonatomic) IBOutlet UIBarButtonItem *menu;
+
+
 @end
 
